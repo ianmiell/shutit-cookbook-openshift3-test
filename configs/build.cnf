@@ -7,5 +7,5 @@
 ###############################################################################
 # When this module is the one being built, which modules should be built along with it by default?
 # This feeds into automated testing of each module.
-[git.shutit_cookbook_openshift3_test.shutit_cookbook_openshift3_test]
+[tk.shutit.shutit_cookbook_openshift3_test.shutit_cookbook_openshift3_test]
 shutit.core.module.build:yes
